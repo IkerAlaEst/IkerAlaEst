@@ -1,16 +1,12 @@
-## Hi there 👋
+# Iker Alarcón Esteve
+## Entornos de desarrollo
+## 1r DAW
+------------------------------------------
 
-<!--
-**IkerAlaEst/IkerAlaEst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Llista no ordenada amb 4 pel·lícules i el seu enllaç a IMDB
+- [The Shawshank Redemption (1994)](https://www.imdb.com/title/tt0111161/)
+- [Inception (2010)](https://www.imdb.com/title/tt1375666/)
+- [Parasite (2019)](https://www.imdb.com/title/tt6751668/)
+- [Amélie (2001)](https://www.imdb.com/title/tt0211915/)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Inception image](inception.jpg)
